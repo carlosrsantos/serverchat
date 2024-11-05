@@ -30,12 +30,15 @@ cd <diretório-do-repositório>
 
 ### 2. Baixar dependências do código:
 
-```
+```bash
 dotnet restore
 ```
 
 ### 3. Executar a aplicação:
 
-```
+```bash
 dotnet run
 ```
+
+### 4. Aplicação que consome o server:
+- [Client Chat](https://github.com/carlosrsantos/clientChat)
