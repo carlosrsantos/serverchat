@@ -1,0 +1,59 @@
+# Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer packages
+*.exe
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows image file archives
+Thumbs.db
+Desktop.ini
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# JetBrains Rider
+.idea/
+
+# NPM package directory
+node_modules/
+
+# VS for Mac
+.vscode/
+
+# DotCover
+.idea/.idea_dotCover/
+
+# Microsoft Visual Studio for Mac config files
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Core files
+wwwroot/
